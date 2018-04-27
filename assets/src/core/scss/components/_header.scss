@@ -21,6 +21,9 @@ header{
     &.logo{
       font-size: $fs_32;
     }
+    &.icon-search{
+      padding-top: 0;
+    }
   }
   .icon{
     display: none;

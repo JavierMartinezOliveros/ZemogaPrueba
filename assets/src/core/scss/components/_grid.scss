@@ -46,7 +46,7 @@
   .small-11 {width: calc(91.66% - 1%); }
   .small-12 {width: calc(100% - 1%); }
 }
-/* Escritorios pequeño */
+/* Escritorio pequeño */
 @include for-tablet-up {
   .medium-1 {width: calc(8.33% - 1%); }
   .medium-2 {width: calc(16.66% - 1%); }
@@ -61,7 +61,7 @@
   .medium-11 {width: calc(91.66% - 1%); }
   .medium-12 {width: calc(100% - 1%); }
 }
-/* Escritorios muy anchos */
+/* Escritorio ancho */
 @include for-desktop-up{
   .large-1 {width: calc(8.33% - 1%); }
   .large-2 {width: calc(16.66% - 1%); }

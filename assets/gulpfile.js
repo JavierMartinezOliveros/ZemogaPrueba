@@ -1,9 +1,3 @@
-/*
-TODO:
-  1. Poner el sass lint más extricto!
-  2. Añadir minificado y truncado de js ('gulp-uglify')
-*/
-
 const
   config = require('./config.json'),
   gulp = require('gulp'),

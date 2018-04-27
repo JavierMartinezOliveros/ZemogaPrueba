@@ -1,0 +1,59 @@
+/*
+Colors
+http://190.248.48.5/contenidos/UX/idigital/index.php/diseno/color
+*/
+
+// Base
+
+$black: #464646;
+$white: #FFFFFF;
+// Primary
+
+$orange: #FFAD1D;
+$orange_fill: transparentize(#FFAD1D, .4);
+$blue: #1CBBB4;
+$blue_fill: transparentize(#1CBBB4, .4);
+$white_70: transparentize(#FFFFFF, .3);
+$dark_30: transparentize(#707070, .7);
+$dark_50: transparentize(#707070, .5);
+$dark_80: transparentize(#707070, .2);
+$gray: #EBEBEB;
+/*
+Typography
+*/
+$l-medium: 400;
+$l-semibold: 700;
+$l-bold: 900;
+
+//font-sizes
+$fs_12: .75rem;
+$fs_14: .88rem;
+$fs_18: 1.13rem;
+$fs_20: 1.25rem;
+$fs_22: 1.38rem;
+$fs_24: 1.5rem;
+$fs_26: 1.63rem;
+$fs_28: 1.75rem;
+$fs_30: 1.88rem;
+$fs_32: 2rem;
+$fs_34: 2.12rem;
+$fs_36: 2.25rem;
+$fs_38: 2.37rem;
+$fs_40: 2.5rem;
+/*
+Breakpoints
+*/
+$phone-max: 688px;
+$tablet: 768px;
+$desktop: 1280px;
+/*
+Z indexes
+*/
+$max-index: 200;
+$medium-index: 100;
+$min-index: 1;
+/*
+variables para contenidos de banners
+*/
+$con_ban: 10px, absolute, 100%;
+$con_mid: 0, 5%, center, auto, 0;

@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "img":"images/profiles/char_1.png",
+      "name": "Kanye West",
+      "subtitle": "1 month ago",
+      "publication": "in Entertaiment",
+      "description": "We have purged your fear. You are ready to Iead these men. You are ready to become a member of the League of Shadows.",
+      "thumbUp": "images/icons/thumb.png",
+      "thumbDown": "images/icons/thumb_down.png",
+      "btnVote": "Vote now",
+      "answer": "Thank you for voting!",
+      "btnAgain": "Vote Again"
+    },
+    {
+      "img":"images/profiles/char_2.png",
+      "name": "Mark Zuckenberg",
+      "subtitle": "1 month ago",
+      "publication": "in Bussines",
+      "description": "We have purged your fear. You are ready to Iead these men. You are ready to become a member of the League of Shadows.",
+      "thumbUp": "images/icons/thumb.png",
+      "thumbDown": "images/icons/thumb_down.png",
+      "btnVote": "Vote now",
+      "answer": "Thank you for voting!",
+      "btnAgain": "Vote Again"
+    },
+    {
+      "img":"images/profiles/char_3.png",
+      "name": "Cristina Fernández de Kirchner",
+      "subtitle": "1 month ago",
+      "publication": "in Politics",
+      "description": "We have purged your fear. You are ready to Iead these men. You are ready to become a member of the League of Shadows.",
+      "thumbUp": "images/icons/thumb.png",
+      "thumbDown": "images/icons/thumb_down.png",
+      "btnVote": "Vote now",
+      "answer": "Thank you for voating",
+      "btnAgain": "Vote Again"
+    },
+    {
+      "img":"images/profiles/char_4.png",
+      "name": "Malala Yousafzai",
+      "subtitle": "1 month ago",
+      "publication": "in Entertaiment",
+      "description": "We have purged your fear. You are ready to Iead these men. You are ready to become a member of the League of Shadows.",
+      "thumbUp": "images/icons/thumb.png",
+      "thumbDown": "images/icons/thumb_down.png",
+      "btnVote": "Vote now",
+      "answer": "Thank you for voating",
+      "btnAgain": "Vote Again"
+    }
+  ]
+}
